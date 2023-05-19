@@ -2,3 +2,4 @@
 ---
 
 ### Ejercicio 1: Anclas Terminado!
+### Ejercicio 2: Mozilla Terminado!
